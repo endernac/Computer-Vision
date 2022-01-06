@@ -1,2 +1,2 @@
 # Computer-Vision
-Computer Vision Assingments
+Computer Vision Assignments
